@@ -19,9 +19,6 @@ And dont close your terminal
 
 apt install git
 
-apt install cmatrix
-
-apt install figlet
 
 git clone https://github.com/DRACULA-HACK/heme_hamke
 
