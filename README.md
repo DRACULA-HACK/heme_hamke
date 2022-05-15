@@ -7,7 +7,7 @@ This script is for fun
 And its take time
 # requirements
 #
-#Installgit
+#Install git
 #
 #Install figlet
 #
