@@ -14,9 +14,15 @@ And its take time
 #Install cmatrix
 #
 #commands
+
 apt install git
+
 apt install cmatrix
+
 apt install figlet
+
 git clone https://github.com/DRACULA-HACK/heme_hamke
+
 cd heme_hamke
+
 bash hemehack.sh
