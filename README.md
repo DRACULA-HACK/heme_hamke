@@ -28,4 +28,4 @@ git clone https://github.com/DRACULA-HACK/heme_hamke
 cd heme_hamke
 
 bash hemehack.sh
-#By master-hack
+# By master-hack
