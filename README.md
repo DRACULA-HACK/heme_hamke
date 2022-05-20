@@ -13,7 +13,7 @@ And dont close your terminal
 #
 #Install figlet
 #
-#Install cmatrix
+
 #
 # commands
 
